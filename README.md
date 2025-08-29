@@ -1,97 +1,63 @@
-# 💳 Fintech Solution (Mobile App)
+# 🏦 FinTech Dashboard – Modern Finance Management Platform
 
-A modern **fintech mobile application** built to simplify digital payments, merchant onboarding (KYC), and payment integrations.  
-The app is designed with **security, flexibility, and scalability** in mind, supporting multiple payment methods and merchant requirements.  
-
----
-
-## 🚀 Key Features  
-
-### 🔐 Seamless Onboarding  
-- Simple **Sign Up & Login** process with **Face ID integration**.  
-- Secure authentication to keep user accounts safe.  
-
-<table>
-<tr>
-<td width="65%">
-Sign up and login are made effortless with Face ID, ensuring both security and speed.
-</td>
-<td width="35%">
-<img src="https://github.com/user-attachments/assets/763d9f9a-a08d-42ef-aec4-2aca7731da88" width="120" />
-<img src="https://github.com/user-attachments/assets/b29c0bce-8afa-4707-9290-fe1d942508bf" width="120" />
-</td>
-</tr>
-</table>
+A **cross-platform financial management system** built with **Flutter (mobile)** and **React.js + Node.js (web backend)**.  
+This platform simplifies **transaction tracking, crypto wallet management, and financial dashboards** with API-driven integrations.  
 
 ---
 
-### 📊 Dashboard & Payments  
-- User-friendly **Dashboard** with transaction summary (**credits & debits**).  
-- Multiple **payment methods** supported: Google Pay, Samsung Pay, Apple Pay, Cards, Crypto, Tap-to-Pay.  
+## 🚀 Key Features
 
-<table>
-<tr>
-<td width="65%">
-All payment activity is visible in a clean dashboard with multiple payment options.
-</td>
-<td width="35%">
-<img src="https://github.com/user-attachments/assets/d770ed97-73c3-4c9b-bfe6-9dc951a50cb3" width="120" />
-<img src="https://github.com/user-attachments/assets/5347ca83-6987-4833-b062-d395af8764c9" width="120" />
-</td>
-</tr>
-</table>
+### 📊 Smart Dashboard & Analytics
+- **Unified Finance View:** Monitor accounts, transactions, and wallet activity in real-time  
+- **Visual Insights:** Interactive charts & analytics for smarter decision making  
+- **Secure Login & Authentication:** Role-based access and encrypted sessions  
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/your-image-1.png" height="500px" />
+  <img src="https://github.com/user-attachments/assets/your-image-2.png" height="500px" />
+</div>
 
 ---
 
-### 🏦 Merchant KYC (Know Your Customer)  
-- Comprehensive **KYC forms** for merchants.  
-- Includes **Business Info, Owner Info, Banking Details**.  
+### 💸 Wallet & Transactions
+- **Send & Receive Funds:** Seamless money transfers and requests  
+- **Transaction History:** Filter by date, category, or type  
+- **Multi-Currency Support:** Handle crypto + fiat transactions with ease  
 
-<table>
-<tr>
-<td width="65%">
-Merchants can quickly complete KYC with all required business, owner, and banking information.
-</td>
-<td width="35%">
-<img src="https://github.com/user-attachments/assets/0bc0bcc9-f973-44e7-bcf9-bb22f2b18ac4" width="120" />
-<img src="https://github.com/user-attachments/assets/039a6d55-eccb-424c-82d8-d4b6a702fa6f" width="120" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/your-image-3.png" height="500px" />
+  <img src="https://github.com/user-attachments/assets/your-image-4.png" height="500px" />
+</div>
 
 ---
 
-### ⚙️ Flexible Integrations  
-- Easily switch between different **Terminal SDKs**.  
-- Supports **Stripe, Elavon, Avalon**, and other providers.  
+### 👤 User Profiles & Settings
+- **Customizable Profiles:** Manage personal & business accounts  
+- **Notification Preferences:** Stay updated with alerts & reminders  
+- **Dark/Light Mode:** Personalized display experience  
 
-<table>
-<tr>
-<td width="65%">
-Merchants can choose or switch between multiple terminal SDKs like Stripe, Elavon, Avalon.
-</td>
-<td width="35%">
-<img src="https://github.com/user-attachments/assets/8746b01c-6b09-4080-ae6c-c552b28f8045" width="120" />
-<img src="https://github.com/user-attachments/assets/3d419bdb-a5b0-445e-9759-822228f9d654" width="120" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/your-image-5.png" height="500px" />
+  <img src="https://github.com/user-attachments/assets/your-image-6.png" height="500px" />
+</div>
 
 ---
 
-## 📖 Case Study  
+## 📚 Case Study: Simplifying Finance Management
 
-### ❌ Problem  
-Businesses often face challenges with:  
-- Managing **multiple payment methods** in one app.  
-- Complicated **merchant onboarding (KYC)**.  
-- Limited options for **payment provider integrations**.  
-- Security risks during authentication and transactions.  
+### 🧩 The Problem
+Users often struggle with fragmented financial tools:  
+- Separate apps for bank accounts, crypto, and budgeting  
+- Complex dashboards with too much noise and poor UI  
+- Lack of real-time sync between mobile and web platforms  
 
-### ✅ Solution  
-This **Fintech App** solves these challenges by:  
-- Providing **secure Sign Up/Login with Face ID**.  
-- Offering a **unified dashboard** with real-time payments (credit/debits).  
-- Supporting **all popular payment methods** (Google Pay, Apple Pay, Crypto, Tap-to-Pay).  
-- Enabling **easy merchant KYC** with full records (Business, Owner, Banking).  
-- Allowing merchants to **switch between providers** like Stripe, Elavon, Avalon seamlessly.  
+This leads to **confusion, wasted time, and poor financial decisions**.  
+
+### 💡 The Solution
+We built **FinTech Dashboard** — a streamlined finance hub:  
+- **One platform** for bank accounts, crypto, and transactions  
+- **Intuitive dashboards** with clear charts and insights  
+- **Seamless sync** between mobile and web apps  
+- **Security-first design** with role-based authentication  
+
+With **FinTech Dashboard**, users gain **clarity, control, and confidence** in managing their money — all in one place.  
