@@ -12,8 +12,8 @@ The app is designed with **security, flexibility, and scalability** in mind, sup
 - Secure authentication to keep user accounts safe.  
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/763d9f9a-a08d-42ef-aec4-2aca7731da88" width="45%" />
-  <img src="https://github.com/user-attachments/assets/b29c0bce-8afa-4707-9290-fe1d942508bf" width="45%" />
+  <img src="https://github.com/user-attachments/assets/763d9f9a-a08d-42ef-aec4-2aca7731da88" width="35%" />
+  <img src="https://github.com/user-attachments/assets/b29c0bce-8afa-4707-9290-fe1d942508bf" width="35%" />
 </p>
 
 ---
@@ -23,8 +23,8 @@ The app is designed with **security, flexibility, and scalability** in mind, sup
 - Multiple **payment methods** supported: Google Pay, Samsung Pay, Apple Pay, Cards, Crypto, Tap-to-Pay.  
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/d770ed97-73c3-4c9b-bfe6-9dc951a50cb3" width="45%" />
-  <img src="https://github.com/user-attachments/assets/5347ca83-6987-4833-b062-d395af8764c9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d770ed97-73c3-4c9b-bfe6-9dc951a50cb3" width="35%" />
+  <img src="https://github.com/user-attachments/assets/5347ca83-6987-4833-b062-d395af8764c9" width="35%" />
 </p>
 
 ---
@@ -34,8 +34,8 @@ The app is designed with **security, flexibility, and scalability** in mind, sup
 - Includes **Business Info, Owner Info, Banking Details**.  
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/0bc0bcc9-f973-44e7-bcf9-bb22f2b18ac4" width="45%" />
-  <img src="https://github.com/user-attachments/assets/039a6d55-eccb-424c-82d8-d4b6a702fa6f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0bc0bcc9-f973-44e7-bcf9-bb22f2b18ac4" width="35%" />
+  <img src="https://github.com/user-attachments/assets/039a6d55-eccb-424c-82d8-d4b6a702fa6f" width="35%" />
 </p>
 
 ---
@@ -45,7 +45,8 @@ The app is designed with **security, flexibility, and scalability** in mind, sup
 - Supports **Stripe, Elavon, Avalon**, and other providers.  
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/8746b01c-6b09-4080-ae6c-c552b28f8045" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8746b01c-6b09-4080-ae6c-c552b28f8045" width="35%" />
+  <img src="https://github.com/user-attachments/assets/3d419bdb-a5b0-445e-9759-822228f9d654" width="35%" />
 </p>
 
 ---
